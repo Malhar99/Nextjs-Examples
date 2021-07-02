@@ -1,0 +1,19 @@
+to create the next.js project 
+npx create-next-app
+
+--with typescript
+
+npx create-next-app --typescript
+
+to start the dev 
+
+npm run dev
+
+to build the app
+
+npm run build
+
+to run the build application 
+
+npm start
+
